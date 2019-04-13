@@ -1,8 +1,8 @@
-# simple_flutter_audio_recorder
+# speech_recorder
 
-A simple audio recorder made using Dart and Flutter
+A simple speech recorder made using Dart and Flutter for ASRT
 
-Author: Lawrence Du
+Author: Eric Luo
 
 
 To run this, install Flutter and Dart (https://flutter.io/get-started/install/)
